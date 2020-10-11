@@ -13,6 +13,6 @@
 - Vk.com - 62 млн
 - Instagram - 39 млн
 - Ok.ru - 24 млн
-[Источник: Mediascope](https://popsters.ru/blog/post/svezhie-dannye-o-vk)
 Планируемая нагрузка - 49.6% ~ 50% доля рынка в России.
+[Источник: Mediascope](https://popsters.ru/blog/post/svezhie-dannye-o-vk)
 
