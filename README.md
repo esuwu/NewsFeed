@@ -131,7 +131,8 @@ O(U*N(Ui) + G*N(Gj))
 
 ### Балансировщик + фронтенд:
 Согласно этому [Performance](https://www.nginx.com/blog/testing-the-performance-of-nginx-and-nginx-plus-web-servers/) и - [фронтенд](https://habr.com/ru/company/tinkoff/blog/474632/)
-- 3 Мб * 62млн (юзеров в день) 186 000 000 Мб / день = 2152 Мб / с, учитывая так же SSL
+- 3 Мб * 62млн (юзеров в день) 186 000 000 Мб / день = 2152 Мб / с, учитывая так же SSL:
+
 Нам достаточно 5 серверов, для надежности возьмем с запасом 15.
 
 | CPU(cores) | RAM(GB) | SSD(GB) |
